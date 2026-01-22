@@ -130,6 +130,9 @@ Contributors
 * Spacefoot <https://www.spacefoot.com>
   * Quentin Delcourte
 * Vishnu Vanneri <vanneri.odoodev@gmail.com>
+* NuoBiT <https://nuobit.com>
+  * Frank Cespedes <fcespedes@nuobit.com>
+  * Eric Antones <eantones@nuobit.com>
 
 Maintainers
 ~~~~~~~~~~~
